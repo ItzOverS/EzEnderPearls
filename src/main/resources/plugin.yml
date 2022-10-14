@@ -1,0 +1,7 @@
+name: EzEnderPearl
+version: '${project.version}'
+main: me.overlight.ezenderpearl.EzEnderPearl
+api-version: 1.16
+prefix: AtEnder
+authors: [ _OverLight_ ]
+website: http://www.daneshian.ir/
